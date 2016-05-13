@@ -1,5 +1,5 @@
 /**
- * Created by conor on 5/13/16.
+ * Created by conor b on 5/13/16.
  */
 
 
@@ -47,6 +47,6 @@ function updateRecords(id, prop, value) {
     return collection;
 }
 
-// Alter values below to test your code
+// Alter values below to test code
 console.log(updateRecords(5439, "artist", "ABBA"));
 
